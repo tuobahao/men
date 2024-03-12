@@ -1,4 +1,4 @@
-payload:
+#
   - HOST,www.coze.com,Coze
   - HOST-SUFFIX,coze.com,Coze
   - HOST,mssdk-i18n-sg.coze.com,Coze
