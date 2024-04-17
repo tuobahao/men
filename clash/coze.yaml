@@ -1,5 +1,6 @@
 payload:
   - DOMAIN,www.coze.com
+  - DOMAIN,coze.com
   - DOMAIN-SUFFIX,coze.com
   - DOMAIN,mssdk-i18n-sg.coze.com
   - DOMAIN,mssdk-i18n-va.coze.com
