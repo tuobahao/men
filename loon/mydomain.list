@@ -1,6 +1,5 @@
-DOMAIN,coze.com
-HOSTDOMAIN-SUFFIX,baipishu.net
-HOSTDOMAIN-SUFFIX,aibai.xyz
-HOSTDOMAIN-SUFFIX,songxin.de
-HOSTDOMAIN-SUFFIX,tinghao.de
-HOSTDOMAIN-SUFFIX,sxr.fr
+DOMAIN-SUFFIX,baipishu.net
+DOMAIN-SUFFIX,aibai.xyz
+DOMAIN-SUFFIX,songxin.de
+DOMAIN-SUFFIX,tinghao.de
+DOMAIN-SUFFIX,sxr.fr
